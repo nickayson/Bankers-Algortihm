@@ -3,6 +3,8 @@
 
 
 Bankers-algortihm Project
+
+
 Compile and run with:
 clang++ bankers_algorithm.cpp -lpthread -g -lgomp -fopenmp -std=c++11 -o ba
 ./ba bankers_small.txt
