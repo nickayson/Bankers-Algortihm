@@ -4,7 +4,8 @@
 
 Bankers-algortihm Project
 
-This project is essentially an implementation of the Bankers Algorithm in c++ The output is inside of one of the files
+This project is essentially an implementation of the Bankers Algorithm in c++ 
+The output is inside of the bankers_algorithm.cpp file
 
 
 Compile and run with:
